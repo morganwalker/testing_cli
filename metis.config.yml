@@ -1,0 +1,8 @@
+project_token: 8a682276067d26ee3f383b7d
+name: testing_cli
+language: python
+entrypoint: main.py
+resources:
+  limits:
+    cpu: 6
+    memory: 2Gi
