@@ -4,5 +4,5 @@ language: python
 entrypoint: main.py
 resources:
   limits:
-    cpu: 6
+    cpu: 1
     memory: 2Gi
